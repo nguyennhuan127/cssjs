@@ -1,6 +1,5 @@
-//please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
-
+//please contact me minhnhuanphat@gmail.com@gmail.com
+//website http://asagroup.vn or http://minhnhuanphat.com
 (function(JQuery) {
     JQuery.fn.linhnguyen = function(options) {        
         var defaults = {  
@@ -117,7 +116,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://goo.gl/KfdjvB' target='_blank'><img src='http://thietkethiconghoboi.com/wp-content/uploads/2016/05/thiet-ke-ho-boi-dep-nhat-mnp.jpg' width='500px'/><br/>12 mẫu thiết kế hồ bơi đẹp 2017</a>. Mẫu hồ bơi tại ASA GROUP. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://goo.gl/pydlTF' target='_blank'><img src='http://minhnhuanphat.com/wp-content/uploads/2017/09/lam-bang-hieu-tai-tphcm.jpg' width='500px'/><br/>Thiết Kế Thi Công Bảng Hiệu Quảng Cáo và Nội Thất</a>. Công Ty Minh Nhuận Phát. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
