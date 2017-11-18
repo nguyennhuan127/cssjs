@@ -4,7 +4,7 @@
     JQuery.fn.linhnguyen = function(options) {        
         var defaults = {  
 	    	animation: 'fadeAndPop', //fade, fadeAndPop, none
-		    animationspeed: 800, //how fast animtions are
+		    animationspeed: 300, //how fast animtions are
 		    closeonbackgroundclick: true, //if you click background will modal close?
 		    dismissmodalclass: 'close-linhnguyen-modal' //the class of a button or element that will close an open modal
     	}; 
